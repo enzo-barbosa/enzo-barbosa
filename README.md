@@ -12,7 +12,7 @@
 
 ## 📊 Estatísticas
 
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula&hide=issues)
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=enzo-barbosa&show_icons=true&theme=dracula&hide=issues)
 
 ## 📫 Contato
 
