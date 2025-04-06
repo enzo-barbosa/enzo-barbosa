@@ -1,6 +1,6 @@
 # Hello, I'm Enzo Barbosa 👋
 
-💻 Java Backend Developer
+💻 Java Backend Developer  
 🌱 Spring Boot | PostgreSQL | API REST  
 📚 Constantly learning and sharing knowledge
 
